@@ -4,7 +4,7 @@
 
 
 <img src="img/car.png" alt="Alt Text" width="900" align="center">
-
+_Additional picture in the *img* folder!_
 
 ### Features:
 - Controller is through Wi-fi Access-Point (No Need To Download an App)
