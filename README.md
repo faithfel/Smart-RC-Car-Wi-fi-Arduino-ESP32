@@ -22,7 +22,7 @@ _Additional pictures in the <kbd>img</kbd> folder!_
 ### Components/Materials Needed:
 - Motor driver (L298N) (1pc)
 - TT Gear motors w/ wheels (4pcs)
-- Acrylic chassis kit (1pc
+- Acrylic chassis kit (1pc)
 - 18650 Rechargeable Lithium Battery (2pcs)
 - 18650 Battery casing (1pc)
 - Female-to-Male Jumper wires (4pcs)
