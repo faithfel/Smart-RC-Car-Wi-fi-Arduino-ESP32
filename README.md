@@ -23,13 +23,14 @@
 - Female-to-Male Jumper wires (4pcs)
 - Regular Jumper Wire (2pc atleast 0.5 meters)
 
-## Wiring 
+## Wiring Guide:
+<img src="https://aerotechproject.github.io/photo16.png" alt="Alt Text" width="500" align="center">
 
 ## How to Use?
 
 ### 1. Connect to the SSI with the password listed below.
-
 <img src="img/wifi.png" alt="Alt Text" width="500" align="center">
+
 
 ```
 const char* ssid = "WEB_ESP32_CAR";
