@@ -2,6 +2,10 @@
 
 ### A Wirelessly controlled RC car using Arduino ESP32C2 Wifi Access-Point.
 
+
+<img src="img/car.png" alt="Alt Text" width="900" align="center">
+
+
 ### Features:
 - Controller is through Wi-fi Access-Point (No Need To Download an App)
 - Fast Responsive Controls
