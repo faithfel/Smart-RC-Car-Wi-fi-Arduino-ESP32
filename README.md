@@ -22,3 +22,6 @@ Libraries Needed:
 const char* ssid = "WEB_ESP32_CAR";
 const char* password = "12345678";
 ```
+
+
+<img src="img/wifi.png" alt="Alt Text" width="500" align="center">
